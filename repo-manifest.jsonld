@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/infini-attention/commit/9387ae1cf7d5ffc1984c1da547e70fd5f74575df",
       "git:hexsha": "9387ae1cf7d5ffc1984c1da547e70fd5f74575df",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-02T21:13:30.954687+00:00"
     }
   ]
 }
