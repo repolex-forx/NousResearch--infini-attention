@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "infini-attention",
+  "versions": [
+    {
+      "commit": "9387ae1cf7d5ffc1984c1da547e70fd5f74575df",
+      "tag": "",
+      "parsed_at": "2026-11-02T21:13:30.955189+00:00"
+    }
+  ]
+}
