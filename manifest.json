@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "infini-attention",
+  "versions": [
+    {
+      "commit": "9387ae1cf7d5ffc1984c1da547e70fd5f74575df",
+      "parsed_at": "2026-11-02T21:10:53.582089+00:00",
+      "filetree": "filetree/9387ae1cf7d5ffc1984c1da547e70fd5f74575df.nq.gz",
+      "blobs": [
+        "blob/4fb9ac2b450926a2598e545a00a72251a13905b6.nq.gz",
+        "blob/4e18647f1522ceb18d0321eb35469c0903cec609.nq.gz",
+        "blob/022c432ad91568a978085ec0a8fa30898bca373c.nq.gz",
+        "blob/f374792deed0782d751a604978625b2c71ea4e8d.nq.gz",
+        "blob/f3e9c3bf072d5a45d5183765047fe35537139fd9.nq.gz",
+        "blob/e357793560940ddd1dd4eaef8a55fc1f921a67ba.nq.gz",
+        "blob/aea4262da8b5b9be26328e0ce1e20447e5945904.nq.gz",
+        "blob/d626258b6ae154cef0086e0bae84a5ecbe0523f1.nq.gz",
+        "blob/1fdb5a454003e6de87b228df72eef211bbbf6467.nq.gz",
+        "blob/da85b36e6a527eeb5bc6f6253831019650e348d1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
